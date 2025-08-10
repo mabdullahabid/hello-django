@@ -1,0 +1,17 @@
+{
+  "app_name": "hello-django",
+  "app_uuid": "wo40o8g0gcw0k4084kcskg4o",
+  "build_pack": "dockerfile",
+  "coolify_url": "https://cfy0.abd.dev",
+  "domains": "https://hello-django.cfy0.abd.dev:8000",
+  "environment_name": "production",
+  "environment_variables": {},
+  "git_branch": "main",
+  "git_repository": "https://github.com/mabdullahabid/hello-django",
+  "health_check_enabled": false,
+  "health_check_path": "/django-coolify/health/",
+  "ports_exposes": "8000",
+  "project_name": "hello-django",
+  "project_uuid": "gk0048kkkwosgg80ocos0gko",
+  "server_uuid": "q8w8css"
+}

@@ -11,3 +11,8 @@ wheels/
 
 # Django
 db.sqlite3
+# Environment variables (added by django-coolify)
+.env
+*.env
+.env.local
+.env.*.local
